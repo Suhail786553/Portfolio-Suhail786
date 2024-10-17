@@ -5,7 +5,7 @@ import { ReactTyped as Typed } from 'react-typed';
 function Home() {
   return (
     <div className="flex items-center justify-center min-h-screen text-black text-center" id='home'>
-      <div className='hero-section flex flex-col items-center p-6'>
+      <div className='hero-section flex flex-col items-center p-6 md:p-8 lg:p-10'>
         <img 
           src="/Ashwini Maurya.png" 
           width={213} 
@@ -22,7 +22,7 @@ function Home() {
           <span className="text-base font-semibold font-mono">OPEN TO WORK</span>
         </div>
 
-        <h1 className='text-3xl sm:text-4xl font-bold font-mono mb-2'>
+        <h1 className='text-3xl sm:text-4xl lg:text-5xl font-bold font-mono mb-2'>
           Hi, I am Ashwini Maurya. I am a{' '}
           <span className='text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-red-500 italic font-sans'>
             <Typed
@@ -34,12 +34,12 @@ function Home() {
           </span>
         </h1>
 
-        <p className='font-semibold font-mono text-base sm:text-lg mb-6 max-w-lg'>
+        <p className='font-semibold font-mono text-base sm:text-lg lg:text-xl mb-6 max-w-lg'>
           Passionate Frontend Developer crafting engaging, user-friendly web experiences. 
           Let's bring your ideas to life with innovative design and code!
         </p>
 
-        <div className="flex space-x-4 mt-4">
+        <div className="flex space-x-4 mt-4 justify-center">
           <SocialIcon url="https://github.com/Ash1799Maurya" target="_blank" rel="noopener noreferrer" style={{ height: 40, width: 40 }} />
           <SocialIcon url="https://www.linkedin.com/in/ashwinimaurya1999" target="_blank" rel="noopener noreferrer" style={{ height: 40, width: 40 }} />
         </div>
