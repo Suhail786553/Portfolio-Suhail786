@@ -4,7 +4,7 @@ import { ReactTyped as Typed } from 'react-typed';
 
 function Home() {
   return (
-    <div className="flex items-center justify-center min-h-screen  text-black text-center" id='home'>
+    <div className="flex items-center justify-center min-h-screen text-black text-center" id='home'>
       <div className='hero-section flex flex-col items-center p-6'>
         <img 
           src="/Ashwini Maurya.png" 
@@ -22,7 +22,7 @@ function Home() {
           <span className="text-base font-semibold font-mono">OPEN TO WORK</span>
         </div>
 
-        <h1 className='text-4xl font-bold font-mono mb-2'>
+        <h1 className='text-3xl sm:text-4xl font-bold font-mono mb-2'>
           Hi, I am Ashwini Maurya. I am a{' '}
           <span className='text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-red-500 italic font-sans'>
             <Typed
@@ -34,7 +34,7 @@ function Home() {
           </span>
         </h1>
 
-        <p className='font-semibold font-mono text-lg mb-6 max-w-lg'>
+        <p className='font-semibold font-mono text-base sm:text-lg mb-6 max-w-lg'>
           Passionate Frontend Developer crafting engaging, user-friendly web experiences. 
           Let's bring your ideas to life with innovative design and code!
         </p>
