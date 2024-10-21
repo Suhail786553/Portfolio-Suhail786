@@ -19,7 +19,7 @@ function Home() {
         <div className={`flex items-center gap-2 mb-6 transition-opacity duration-1000 ease-in-out ${loaded ? 'opacity-100' : 'opacity-0'}`}>
           <div className="flex h-6 w-6 items-center justify-center relative">
             <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-600 opacity-75"></span>
-            <span className="relative inline-flex h-3 w-3 rounded-full bg-emerald-700"></span>
+            <span className="relative inline-flex h-3 w-3 rounded-full bg-emerald-600"></span>
           </div>
           <span className="text-lg font-semibold font-poppins text-indigo-600">OPEN TO WORK</span>
         </div>
