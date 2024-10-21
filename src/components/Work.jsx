@@ -15,7 +15,7 @@ function Work() {
 
   return (
     <div className='font-mono text-3xl font-bold m-10' id='work'>
-      <h1 className='text-4xl mb-6 text-black'>Work 💼</h1>
+      <h1 className='text-4xl mb-6 text-white'>Work 💼</h1>
       <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
         {projects.map((project) => (
           <div
@@ -23,7 +23,7 @@ function Work() {
             className='card font-mono text-base font-semibold rounded-lg p-5 border-cyan-400	border shadow-lg transition-transform transform hover:scale-105'
             data-aos={project.id === 1 || project.id === 3 ? 'fade-right' : 'fade-left'}
           >
-            <h2 className='text-2xl text-rose-950 mb-2'>{project.title}</h2>
+            <h2 className='text-2xl text-sky-400 mb-2'>{project.title}</h2>
             <a href={project.liveLink} target="_blank" rel="noopener noreferrer">
               <img
                 src={project.imageUrl}

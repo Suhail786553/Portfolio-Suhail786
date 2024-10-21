@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="bg-gradient-to-r from-orange-500 bg-opacity-75 to-sky-400 w-full min-h-screen text-black flex flex-col items-center">
+    <div className="bg-zinc-950 w-full min-h-screen text-white flex flex-col items-center">
       <Navbar />
       <Home />
       <ExperienceWith />

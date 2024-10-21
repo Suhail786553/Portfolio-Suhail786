@@ -1,6 +1,5 @@
 import React from 'react';
 
-// Sample array with experience details and logo URLs
 const experiences = [
   {
     company: 'Accenture',
@@ -32,11 +31,11 @@ function Experience() {
             />
             <h2 className="text-2xl font-semibold">{experience.company}</h2>
           </div>
-          <p className="text-xl text-black">{experience.role}</p>
-          <p className="text-sm text-black">{experience.duration} - {experience.location}</p>
+          <p className="text-xl text-sky-400">{experience.role}</p>
+          <p className="text-sm text-sky-400">{experience.duration} - {experience.location}</p>
           <ul className="list-disc pl-5 mt-4">
             {experience.responsibilities.map((responsibility, idx) => (
-              <li key={idx} className="text-base text-black mb-2">
+              <li key={idx} className="text-base text-white mb-2">
                 {responsibility}
               </li>
             ))}

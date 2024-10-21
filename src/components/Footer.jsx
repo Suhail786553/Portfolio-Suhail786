@@ -8,7 +8,7 @@ function Footer() {
           href="https://github.com/Ash1799Maurya"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-rose-950 hover:underline"
+          className="text-sky-400 hover:underline"
         >
            Coded {' '}
         </a>
