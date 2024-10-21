@@ -5,7 +5,7 @@ function Footer() {
     <footer className="text-center py-4 mt-10 font-mono text-base">
       <p className="text-black-600 text-lg">
       <a
-          href="https://github.com/Ash1799Maurya"
+          href="https://github.com/Ash1799Maurya/Portfolio"
           target="_blank"
           rel="noopener noreferrer"
           className="text-sky-400 hover:underline"
