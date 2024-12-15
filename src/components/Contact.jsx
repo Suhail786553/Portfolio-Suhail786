@@ -17,15 +17,15 @@ function ContactMe() {
               alt="Email"
               className="w-6 h-6"
           />
-          <span>mauryaashvini99@gmail.com</span>
+          <span>ms5505535@gmail.com</span>
         </a>
       </div>
       
       <p className="text-center mb-6 text-lg">You may also find me on these platforms!</p>
       
       <div className="flex justify-center space-x-6 mb-6">
-        <SocialIcon url="https://github.com/Ash1799Maurya" target="_blank" rel="noopener noreferrer" style={{ height: 40, width: 40 }} />
-        <SocialIcon url="https://www.linkedin.com/in/ashwinimaurya1999" target="_blank" rel="noopener noreferrer" style={{ height: 40, width: 40 }} />
+        <SocialIcon url="https://github.com/Suhail786553" target="_blank" rel="noopener noreferrer" style={{ height: 40, width: 40 }} />
+        <SocialIcon url="https://www.linkedin.com/in/mohd-suhail-1bb6b8251/" target="_blank" rel="noopener noreferrer" style={{ height: 40, width: 40 }} />
       </div>
     </div>
   );

@@ -44,21 +44,21 @@ function Home() {
 
       
         <p className={`font-medium font-poppins text-lg sm:text-xl lg:text-2xl mb-8 max-w-md text-gray-500 transition-opacity duration-1000 ease-in-out ${loaded ? 'opacity-100' : 'opacity-0'}`}>
-          Passionate Frontend Developer dedicated to building efficient, innovative, and user-centric web solutions. 
-          Let’s collaborate and bring your vision to reality.
+        Passionate MERN Stack Developer committed to creating scalable, innovative, and user-focused web applications.
+        Let’s collaborate to turn your ideas into fully functional digital solutions.
         </p>
 
         
         <div className={`flex space-x-6 mt-4 justify-start transition-all duration-1000 ease-in-out ${loaded ? 'translate-x-0 opacity-100' : '-translate-x-20 opacity-0'}`}>
           <SocialIcon
-            url="https://github.com/Ash1799Maurya"
+            url="https://github.com/Suhail786553"
             target="_blank"
             rel="noopener noreferrer"
             style={{ height: 40, width: 40 }}
             className="transition-transform transform hover:scale-125 duration-300 ease-in-out"
           />
           <SocialIcon
-            url="https://www.linkedin.com/in/ashwinimaurya1999"
+            url="https://www.linkedin.com/in/mohd-suhail-1bb6b8251/"
             target="_blank"
             rel="noopener noreferrer"
             style={{ height: 40, width: 40 }}

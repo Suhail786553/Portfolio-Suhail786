@@ -5,14 +5,14 @@ function Footer() {
     <footer className="text-center py-4 mt-10 font-mono text-base">
       <p className="text-black-600 text-lg">
       <a
-          href="https://github.com/Ash1799Maurya/Portfolio"
+          href="v#"
           target="_blank"
           rel="noopener noreferrer"
           className="text-sky-400 hover:underline"
         >
-           Coded {' '}
+           Developed {' '}
         </a>
-           by Ashwini Maurya
+           by Mohd Suhail
       </p>
     </footer>
   );

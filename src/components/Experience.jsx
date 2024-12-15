@@ -4,14 +4,13 @@ const experiences = [
   {
     company: 'ApricityTS',
     role: 'Software Developer Intern',
-    duration: 'September 2021 – Present',
+    duration: 'September 2024 – Present',
     location: 'Remote',
     responsibilities: [
-      'Moderated 2500+ user profiles, videos, and text-based content, identifying and escalating issues promptly.',
-      'Collaborated in a 30-member team to review over 1 million pieces of content in 4 months, ensuring adherence to company guidelines.',
-      'Implemented updates that led to a 400% increase in objectionable content removal.',
-      'Improved operational efficiency, reducing content moderation backlog by 50%.',
-      'Managed team data using Excel and Google Spreadsheets, introducing innovative tool ideas to enhance customer satisfaction.'
+      'Developed and deployed fully functional websites independently, utilizing modern web development technologies.',
+      'Collaborated within a team of 30 developers to deliver a feature-rich web platform, ensuring seamless performance and user experience.',
+      'Optimized codebases and workflows, achieving a 400% increase in website performance and load times.',
+      'Streamlined development processes, reducing project delivery timelines by 50% through efficient project management and innovative coding practices.'
     ],
     logo: 'https://yt3.googleusercontent.com/_mtf7vCqvNqWvS8Q6VfIgEZJ5PwnUP9fuE78VzPDMoc4pTVA6crwEwSef1HejeY1BRqLtuJpIr4=s160-c-k-c0x00ffffff-no-rj'
   }
