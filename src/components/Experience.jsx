@@ -2,10 +2,10 @@ import React from 'react';
 
 const experiences = [
   {
-    company: 'Accenture',
-    role: 'Social Media Analyst',
-    duration: 'Feb 2021 – Aug 2022',
-    location: 'Mumbai, India',
+    company: 'ApricityTS',
+    role: 'Software Developer Intern',
+    duration: 'September 2021 – Present',
+    location: 'Remote',
     responsibilities: [
       'Moderated 2500+ user profiles, videos, and text-based content, identifying and escalating issues promptly.',
       'Collaborated in a 30-member team to review over 1 million pieces of content in 4 months, ensuring adherence to company guidelines.',
