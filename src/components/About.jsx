@@ -13,7 +13,7 @@ function About() {
       <h2 className="text-4xl mb-4 text-white" data-aos="fade-up">About Me 👋</h2>
       <div className="text-black-300" data-aos="fade-up">
         <p className="font-semibold text-base py-2">
-          <span className="text-sky-400">Hi, I’m Ashwini Maurya—</span> a frontend developer with a passion for transforming bold ideas into sleek, high-performance web applications. Whether it’s creating seamless user experiences or crafting clean, efficient code, I bring creativity and precision to every project I tackle. 🚀
+          <span className="text-sky-400">Hi, I’m Mohd Suhail—</span> a MERN Stack Developer with a passion for transforming bold ideas into sleek, high-performance web applications. Whether it’s creating seamless user experiences or crafting clean, efficient code, I bring creativity and precision to every project I tackle. 🚀
         </p>
         <p className="font-semibold text-base py-2" data-aos="fade-up" data-aos-delay="100">
           Armed with skills in <span className="text-sky-400">HTML, CSS, JavaScript, React, and TypeScript</span>, I create responsive user experiences that don’t just look good—they feel good. ✨

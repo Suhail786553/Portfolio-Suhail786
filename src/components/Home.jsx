@@ -28,13 +28,13 @@ function Home() {
         <h1 className={`text-4xl sm:text-5xl lg:text-6xl font-bold font-roboto mb-4 transform transition-all duration-1000 ease-in-out ${loaded ? 'translate-x-0 opacity-100' : '-translate-x-20 opacity-0'}`}>
           Hi, I am{' '}
           <span className="bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-transparent bg-clip-text">
-            Ashwini Maurya.
+            Mohd Suhail.
           </span>
           <br />
           I am a{' '}
           <span className='italic font-semibold text-purple-500'>
             <Typed
-              strings={['Frontend Developer', 'Web Developer']}
+              strings={['MERN Stack Developer', 'Web Developer']}
               typeSpeed={40} 
               backSpeed={50} 
               loop 
