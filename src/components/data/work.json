@@ -9,28 +9,25 @@
     },
     {
       "id": 2,
-      "title": "News Application",
+      "title": "Weather-Application",
       "imageUrl": "/weather.png",
       "liveLink": "https://ash1799maurya.github.io/Weather-Application-/",
-      "githubLink": "https://github.com/Ash1799Maurya/Weather-Application-",
       "description": "Provides real-time weather updates and forecasts.",
       "technologies": "HTML, CSS, JavaScript, OpenWeather API"
     },
     {
       "id": 3,
-      "title": "Todo List",
-      "imageUrl": "/todo.png",
-      "liveLink": "https://ash1799maurya.github.io/To-Do-List/",
-      "githubLink": "https://github.com/Ash1799Maurya/To-Do-List",
+      "title": "ApricityTS Internship Website",
+      "imageUrl": "apricity.png",
+      "liveLink": "https://ocr-new.netlify.app/",
       "description": "Manage your tasks with ease using this app.",
-      "technologies": "HTML, CSS, JavaScript, LocalStorage"
+      "technologies": "React,Express,Nodejs, MongoDB"
     },
     {
       "id": 4,
       "title": "Guessing Game",
       "imageUrl": "/guessing.png",
       "liveLink": "https://ash1799maurya.github.io/guessing-game/",
-      "githubLink": "https://github.com/Ash1799Maurya/guessing-game",
       "description": "An interactive game to guess the number.",
       "technologies": "HTML, CSS, JavaScript"
     }

@@ -11,7 +11,7 @@ function Navbar() {
   
       <div className='logo'>
         <a href="#home">
-          <img src="/Logo.png" alt="Logo" width={80} height={80} />
+          <img src="https://seeklogo.com/images/M/ms-industrial-logo-7E95C0D1D4-seeklogo.com.png" alt="Logo" width={80} height={80} />
         </a>
       </div>
 
