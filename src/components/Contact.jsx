@@ -11,7 +11,7 @@ function ContactMe() {
       </p>
 
       <div className="text-center mb-8">
-        <a href="mailto:mauryaashvini99@gmail.com?subject=Hello" className="flex items-center justify-center space-x-2 text-xl font-semibold">
+        <a href="mailto:ms5505535@gmail.com?subject=Hello" className="flex items-center justify-center space-x-2 text-xl font-semibold">
           <img 
               src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png"
               alt="Email"
