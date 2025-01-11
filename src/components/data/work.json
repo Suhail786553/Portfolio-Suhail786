@@ -4,8 +4,8 @@
       "title": "FashionAI Model Generator and Virtual Try On",
       "imageUrl": "ai4fi.png",
       "liveLink": "https://ai4fi.netlify.app/",
-      "description": "An interactive game to guess the number.",
-      "technologies": "HTML, CSS, JavaScript"
+      "description": "AI4FI: Revolutionizing the fashion experience with AI-powered model generation and virtual try-on technology. Discover how cutting-edge AI brings your designs to life and redefines online shopping with personalized, interactive experiences",
+      "technologies": "React,Nodejs,Expressjs,MongoDB"
      
     },
     {
@@ -13,15 +13,15 @@
       "title": "ApricityTS Internship Website",
       "imageUrl": "apricity.png",
       "liveLink": "https://ocr-new.netlify.app/",
-      "description": "Manage your tasks with ease using this app.",
-      "technologies": "React,Express,Nodejs, MongoDB"
+      "description": "ApricityTS: Delivering innovative web solutions and AI-driven products that empower businesses to thrive in the digital era. From cutting-edge AI integrations to custom product development, we craft intelligent and scalable solutions tailored to your needs",
+      "technologies": "React,Expressjs,Nodejs, MongoDB"
     },
     {
       "id": 3,
       "title": "E-Commerce Website",
       "imageUrl": "/scrn.png",
       "liveLink": "https://www.aainterlock.com/",
-      "description": "E-Commerce Website.",
+      "description": "Crafted an elegant and user-friendly eCommerce website using Webflow, designed to deliver a seamless shopping experience. The site features visually appealing product displays, intuitive navigation, responsive design, and optimized performance to ensure customer satisfaction. Perfect for businesses looking to enhance their online presence and boost sales.",
       "technologies": "WebFlow"
     },
     {
@@ -31,6 +31,22 @@
       "liveLink": "https://ash1799maurya.github.io/Weather-Application-/",
       "description": "Provides real-time weather updates and forecasts.",
       "technologies": "HTML, CSS, JavaScript, OpenWeather API"
+    }
+    ,{
+      "id": 4,
+      "title": "Email-authentication",
+      "imageUrl": "email.png",
+      "liveLink": "https://email-auth01.netlify.app/",
+      "description": "Implemented a secure email authentication web app with Node.js and Nodemailer, featuring OTP verification for user signups",
+      "technologies": "React,Nodejs,ExpressJS,Nodemailer"
+    },
+    {
+      "id": 4,
+      "title": "Landing Page",
+      "imageUrl": "landing.png",
+      "liveLink": "https://landinpag.netlify.app/",
+      "description": "Designed a clean, responsive landing page with engaging visuals, clear call-to-actions, and seamless navigation to captivate users",
+      "technologies": "HTML, CSS"
     }
   ]
   
