@@ -25,9 +25,9 @@
     },
     {
       "id": 4,
-      "title": "Guessing Game",
-      "imageUrl": "/guessing.png",
-      "liveLink": "https://ash1799maurya.github.io/guessing-game/",
+      "title": "FashionAI Model Generator and Virtual Try On",
+      "imageUrl": "ai4fi.png",
+      "liveLink": "https://ai4fi.netlify.app/",
       "description": "An interactive game to guess the number.",
       "technologies": "HTML, CSS, JavaScript"
     }
