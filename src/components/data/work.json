@@ -1,22 +1,15 @@
 [
     {
       "id": 1,
-      "title": "E-Commerce Website",
-      "imageUrl": "/scrn.png",
-      "liveLink": "https://www.aainterlock.com/",
-      "description": "E-Commerce Website.",
-      "technologies": "WebFlow"
+      "title": "FashionAI Model Generator and Virtual Try On",
+      "imageUrl": "ai4fi.png",
+      "liveLink": "https://ai4fi.netlify.app/",
+      "description": "An interactive game to guess the number.",
+      "technologies": "HTML, CSS, JavaScript"
+     
     },
     {
-      "id": 2,
-      "title": "Weather-Application",
-      "imageUrl": "/weather.png",
-      "liveLink": "https://ash1799maurya.github.io/Weather-Application-/",
-      "description": "Provides real-time weather updates and forecasts.",
-      "technologies": "HTML, CSS, JavaScript, OpenWeather API"
-    },
-    {
-      "id": 3,
+      "id": 1,
       "title": "ApricityTS Internship Website",
       "imageUrl": "apricity.png",
       "liveLink": "https://ocr-new.netlify.app/",
@@ -24,12 +17,20 @@
       "technologies": "React,Express,Nodejs, MongoDB"
     },
     {
+      "id": 3,
+      "title": "E-Commerce Website",
+      "imageUrl": "/scrn.png",
+      "liveLink": "https://www.aainterlock.com/",
+      "description": "E-Commerce Website.",
+      "technologies": "WebFlow"
+    },
+    {
       "id": 4,
-      "title": "FashionAI Model Generator and Virtual Try On",
-      "imageUrl": "ai4fi.png",
-      "liveLink": "https://ai4fi.netlify.app/",
-      "description": "An interactive game to guess the number.",
-      "technologies": "HTML, CSS, JavaScript"
+      "title": "Weather-Application",
+      "imageUrl": "/weather.png",
+      "liveLink": "https://ash1799maurya.github.io/Weather-Application-/",
+      "description": "Provides real-time weather updates and forecasts.",
+      "technologies": "HTML, CSS, JavaScript, OpenWeather API"
     }
   ]
   
